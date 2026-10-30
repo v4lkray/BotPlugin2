@@ -1,0 +1,8 @@
+name: BotPlugin
+version: 1.0
+main: com.example.botplugin.BotPlugin
+api-version: '1.21'
+commands:
+  bot:
+    description: Open the bot menu
+    usage: /bot

@@ -1,0 +1,6 @@
+bot:
+  name: "Bot"
+# Paste your skin's texture value and signature here (see the skin section below).
+skin:
+  value: ""
+  signature: ""
